@@ -12,12 +12,26 @@ I pledge my honor that I have abided by the Stevens Honor System. Below is an ov
 # today's julian calendar day
 ![](media/lab3.4.png)
 
-# this
+# today's date
 ![](media/lab3.5.png)
+
+# today's date and current time
 ![](media/lab3.6.png)
+
+# current time, updates every 10 seconds
 ![](media/lab3.7.png)
+
+# checking sun status of New York today
 ![](media/lab3.8.png)
+
+# the moon's phases (ends where the phases cycle all the way back to today's phase)
 ![](media/lab3.9.png)
+
+# exact location of the Stevens library
 ![](media/lab3.10.png)
+
+# receive address of given coordinates
 ![](media/lab3.11.png)
+
+# check cpu
 ![](media/lab3.12.png)
