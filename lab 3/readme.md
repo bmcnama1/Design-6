@@ -13,3 +13,11 @@ I pledge my honor that I have abided by the Stevens Honor System. Below is an ov
 ![](media/lab3.4.png)
 
 # this
+![](media/lab3.5.png)
+![](media/lab3.6.png)
+![](media/lab3.7.png)
+![](media/lab3.8.png)
+![](media/lab3.9.png)
+![](media/lab3.10.png)
+![](media/lab3.11.png)
+![](media/lab3.12.png)
