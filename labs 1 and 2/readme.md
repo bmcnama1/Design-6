@@ -10,10 +10,11 @@ I pledge my honor that I have abided by the Stevens Honor System. Below is an ov
 # git clone, cd iot, ls, cd, df
 ![](ss5.png)
 ![](ss6.png)
-# mkdir demo, cd demo, nano file, cat file, cp file file1, mv file file2, rm file2
+# mkdir demo, cd demo, nano file
 ![](ss7.png)
 # nano file (editor)
 ![](ss8.png)
+# cat file, cp file file1, mv file file2, rm file2
 ![](ss9.png)
 ![](ss10.png)
 ![](ss11.png)
