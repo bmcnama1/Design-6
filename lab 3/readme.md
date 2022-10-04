@@ -30,11 +30,10 @@ I pledge my honor that I have abided by the Stevens Honor System. Below is an ov
 # receive address of given coordinates
 ![](media/lab3.10.png)
 
-# check cpu
+# NEED HELP? check cpu
 ![](media/lab3.11.png)
 
-# check cpu
-# check battery
+# NEED HELP? check battery
 
 # check top 10 words used in a document
 ![](media/lab3.12.png)
