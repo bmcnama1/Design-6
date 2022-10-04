@@ -7,7 +7,7 @@ I pledge my honor that I have abided by the Stevens Honor System. Below is an ov
 
 # installation of packages 
 ![](media/lab3.2.png)
-![](media/1ab3.3.png)
+![](media/lab3.3.png)
 
 # today's julian calendar day
 ![](media/1ab3.4.png)
