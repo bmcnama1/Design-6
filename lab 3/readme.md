@@ -3,7 +3,7 @@ I pledge my honor that I have abided by the Stevens Honor System. Below is an ov
 
 
 # entering iot directory
-![](readme.md/1ab3.1.png)
+![](media/lab3.1.png)
 # installation of packages 
 ![](media/1ab3.2.png)
 ![](media/1ab3.3.png)
