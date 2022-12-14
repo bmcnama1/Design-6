@@ -1,10 +1,10 @@
 # lab 8
 I pledge my honor that I have abided by the Stevens Honor System. 
 
-![](media/1.png)
-![](media/2.png)
-![](media/3.png)
-![](media/4.png)
-![](media/5.png)
-![](media/6.png)
+![](media/b1.png)
+![](media/b2.png)
+![](media/b3.png)
+![](media/b4.png)
+![](media/b5.png)
+![](media/b6.png)
 
